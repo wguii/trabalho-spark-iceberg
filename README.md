@@ -1,5 +1,5 @@
-##Trabalhos Engenharia de Dados
+**Trabalhos Engenharia de Dados**
 
-Este repositório contém 4 trabalhos da disiplina de Engenharia de Dados da UNISATC que visam trabalhar pipelines de dados e arquiteturas de armazenamento de dados.
+Este repositório contém 4 trabalhos da disciplina de Engenharia de Dados da UNISATC que visam trabalhar pipelines de dados e arquiteturas de armazenamento de dados.
 
-Alunos: Guilherme Zapelini, Alexandre Sartor e Davi Carlos.
+**Alunos: Guilherme Zapelini, Alexandre Sartor e Davi Carlos.**
