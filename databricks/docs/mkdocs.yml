@@ -1,0 +1,9 @@
+site_name: Airbnb nas cidades Europeias
+theme:
+  name: material
+nav:
+  - Documentação: index.md
+  - Criação das camadas: criação.md
+  - Camada Bronze: bronze.md
+  - Camada Silver: silver.md
+  - Camada Gold: gold.md
