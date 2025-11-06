@@ -1,0 +1,14 @@
+[project]
+name = "spark5"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.7"
+dependencies = [
+    "delta-spark==3.2.0",
+    "ipykernel>=6.30.1",
+    "jupyterlab>=4.4.9",
+    "mkdocs>=1.6.1",
+    "mkdocs-material",
+    "pyspark==3.5.3",
+]
